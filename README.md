@@ -32,3 +32,6 @@ https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository
 
 If you want to learn more about Github:
 https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+
+If you need to upload large files:
+https://help.github.com/en/github/managing-large-files
