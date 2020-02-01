@@ -27,8 +27,9 @@ https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository
 2. Check changed files
 3. Add a description
 4. Create a new Branch with the name of the feature you implemented
-5. Fetch inside this branch
-6. After everyone approval merge it to the master
+5. Commit to the branch
+6. Fetch inside it (so everyone will see but it is not on github)
+7. After everyone approval push it to the master
 
 If you want to learn more about Github:
 https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
