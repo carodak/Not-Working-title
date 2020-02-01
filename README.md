@@ -26,9 +26,9 @@ https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository
 1. Within Unity Desktop select UbisoftGameLab2020 as Current Repository
 2. Check changed files
 3. Add a description
-4. Commit to master
-5. Fetch origin
-
+4. Create a new Branch with the name of the feature you implemented
+5. Fetch inside this branch
+6. After everyone approval merge it to the master
 
 If you want to learn more about Github:
 https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
