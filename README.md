@@ -22,14 +22,22 @@ https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository
 1. Once you have opened the game in Unity open MyScenes folder and try scenes
 2.  Sci-fy scene can be found here: Imported Assets/_DNLK/PlatformCity/Scene
 
-## Updating changes
+## Updating changes on Unity Desktop
+
+> **WARNING**: Please do not pull directly into the master. Use following steps and commit a BRANCH first then push the BRANCH and open a PULL REQUEST
+
 1. Within Unity Desktop select UbisoftGameLab2020 as Current Repository
-2. Check changed files
-3. Add a description
-4. Create a new Branch with the name of the feature you implemented
-5. Commit to the branch
-6. Fetch inside it (so everyone will see but it is not on github)
-7. After everyone approval push it to the master
+2. Check if anyone made changes (fetch will give you a view of others commits without changing your local code)
+3. Create a new Branch with the name of the feature you implemented or use an existing one
+4. If the branch is new, publish it on Github 
+5. Check changed local files that you want to upload
+6. Add a description
+7. Commit your changes to the branch
+8. Push origin (your branch will be seen on Github repository under branches)
+9. Then "Open a pull request" (will push files into master and merge them into all members local repository)
+
+Syncing branches on Unity Desktop:
+https://help.github.com/en/desktop/contributing-to-projects/syncing-your-branch
 
 If you want to learn more about Github:
 https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
