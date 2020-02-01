@@ -27,14 +27,14 @@ https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository
 > **WARNING**: Please do not pull directly into the master. Use following steps and commit a BRANCH first then push the BRANCH and open a PULL REQUEST
 
 1. Within Unity Desktop select UbisoftGameLab2020 as Current Repository
-2. Check if anyone made changes (fetch will give you a view of others commits without changing your local code)
+2. Check if anyone made changes (fetch will give you a view of others commits without changing your local code/pull will change your local code)
 3. Create a new Branch with the name of the feature you implemented or use an existing one
 4. If the branch is new, publish it on Github 
 5. Check changed local files that you want to upload
 6. Add a description
 7. Commit your changes to the branch
 8. Push origin (your branch will be seen on Github repository under branches)
-9. Then "Open a pull request" (will push files into master and merge them into all members local repository)
+9. Then "Open a pull request" (once accepted, it will merge files to the master branch. If someone want to use this new code, a pull will be needed but carefully it may erase stuff that you have done)
 
 Syncing branches on Unity Desktop:
 https://help.github.com/en/desktop/contributing-to-projects/syncing-your-branch
