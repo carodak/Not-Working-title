@@ -45,6 +45,7 @@ https://help.github.com/en/desktop/contributing-to-projects/syncing-your-branch
 
 Follow these instructions: https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/git.html
 
+## Additional information
 
 If you want to learn more about Git and Github:
 
