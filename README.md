@@ -34,7 +34,7 @@ https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository
 6. Add a description
 7. Commit your changes to the branch
 8. Push origin (your branch will be seen on Github repository under branches)
-9. Then "Open a pull request" (once accepted, it will merge files to the master branch. If someone want to use this new code, a pull will be needed but carefully it may erase stuff that you have done)
+9. Then "Open a pull request" (once accepted, it will merge files to the master branch. If someone want to use this new code, go to Github Desktop/Repository/Pull but carefully it may erase stuff that you have done)
 
 Syncing branches on Unity Desktop:
 https://help.github.com/en/desktop/contributing-to-projects/syncing-your-branch
